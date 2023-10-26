@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratertugral" alt="muratertugral" /></a> </p>
 
-- 🔭 I’m currently working on [CSS&HTML&JavaScript](https://github.com/MuratErtugral/Projects)
+- 🔭 I’m currently working on [React & NextJs](https://github.com/MuratErtugral/Projects)
 
 - 📫 How to reach me **muratertugral93@gmail.com**
 
