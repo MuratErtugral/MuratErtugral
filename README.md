@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;" >
         <img
           src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
           alt="react"
@@ -25,7 +25,7 @@
           height="40"
         />
       </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img
           src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
           alt="nextjs"
@@ -37,6 +37,7 @@
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
+        style="text-decoration: none;"
       >
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -77,8 +78,7 @@
           height="40"
         />
       </a>
-
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"
           alt="bootstrap"
@@ -86,7 +86,6 @@
           height="40"
         />
       </a>
-
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/django.svg"
@@ -119,8 +118,6 @@
           height="40"
         />
       </a>
-
-
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
