@@ -1,4 +1,4 @@
- <div class="container">
+
       <h1 align="center">Hi 👋, I'm Murat</h1>
       <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -196,4 +196,4 @@
 
       ![snake
       svg](https://github.com/MuratErtugral/MuratErtugral/blob/output/github-contribution-grid-snake.svg)
-    </div>
+
