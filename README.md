@@ -79,15 +79,27 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuratErtugral/MuratErtugral/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuratErtugral/MuratErtugral/output/github-contribution-grid-snake.svg">
+    <img alt="Murat's GitHub Snake Animation" src="https://raw.githubusercontent.com/MuratErtugral/MuratErtugral/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MuratErtugral&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Murat's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratErtugral&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=MuratErtugral&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuratErtugral&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MuratErtugral&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratErtugral&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
