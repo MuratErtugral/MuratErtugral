@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://muratertugral.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-muratertugral.vercel.app-2563eb?style=for-the-badge" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-2563eb?style=for-the-badge" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/murat-ertugral" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,7 +12,6 @@
     <a href="mailto:muratertugral93@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=muratertugral&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
@@ -81,27 +80,22 @@
 
 ### 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuratErtugral/MuratErtugral/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuratErtugral/MuratErtugral/output/github-contribution-grid-snake.svg">
-    <img alt="Murat's GitHub Snake Animation" src="https://raw.githubusercontent.com/MuratErtugral/MuratErtugral/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuratErtugral/MuratErtugral/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
 
 ---
 
 ### 📊 GitHub Activity & Statistics
 
-<div align="center">
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=MuratErtugral&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MuratErtugral&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratErtugral&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MuratErtugral&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuratErtugral&show_icons=true&theme=tokyonight&hide_border=true" alt="Murat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratErtugral&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
