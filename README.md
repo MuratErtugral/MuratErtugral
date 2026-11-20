@@ -73,6 +73,7 @@
 ### 🌟 Featured Live Highlights & Open-Source Repositories
 
 - ⚙️ **[dotnet8-ecommerce-microservices](https://github.com/MuratErtugral/dotnet8-ecommerce-microservices):** C# / .NET 8 microservice architecture with Ocelot API Gateway, MongoDB, and Apache Kafka powering storefront engagement widgets (Flash Products, Spin-the-Wheel, Cart Upsell & DnD Layout persistence).
+- 📦 **[smart-wms-barcode-inventory](https://github.com/MuratErtugral/smart-wms-barcode-inventory):** Hybrid Warehouse Management System (WMS) combining a Python Desktop Barcode/Label Printing Suite, a Mobile QR Scanner PWA, and a Supabase PostgreSQL atomic bundle inventory engine.
 - ⚡ **[Portfolio & ATS CV Tailor Studio](https://github.com/MuratErtugral/Portfolio):** Interactive Full-Stack Developer Portfolio, A4 PDF CV Studio & Job Description ATS Resume Tailor ([Live App](https://portfolio-chi-jet-58.vercel.app)).
 - 📱 **[ozel-ders-mobil](https://github.com/MuratErtugral/ozel-ders-mobil):** TypeScript & React cross-platform private tutoring and lesson management application ([Live Demo](https://ozel-ders-mobil.vercel.app)).
 - 🛍️ **[fimple-react-final-case](https://github.com/MuratErtugral/fimple-react-final-case):** React e-commerce storefront application with dynamic catalogs and cart management ([Live Demo](https://fimple-react-final-case.vercel.app)).
